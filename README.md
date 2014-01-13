@@ -3,7 +3,7 @@ Poker Game in Java (incomplete)
 
 Overview
 --------
-While teaching myself Java I needed to write some code to fully grasp the language.  This is the project, a Texas Hold'Em game written in Java.
+While teaching myself Java I needed to write some code to fully grasp the language.  This is the project, a Texas Hold'em game written in Java.
 
 What works:
 
